@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C++ CodeBlocks/untitled/main.cpp
+iostream
+-
+fstream
+-
+map
+-
+vector
+-
+iomanip
+-
+
