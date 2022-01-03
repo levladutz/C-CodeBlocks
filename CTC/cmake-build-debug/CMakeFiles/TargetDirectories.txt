@@ -1,0 +1,3 @@
+F:/C++ CodeBlocks/CTC/cmake-build-debug/CMakeFiles/CTC.dir
+F:/C++ CodeBlocks/CTC/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/C++ CodeBlocks/CTC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

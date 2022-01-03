@@ -1,0 +1,3 @@
+F:/C++ CodeBlocks/Arbori indexati binar/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/C++ CodeBlocks/Arbori indexati binar/cmake-build-debug/CMakeFiles/Arbori_indexati_binar.dir
+F:/C++ CodeBlocks/Arbori indexati binar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

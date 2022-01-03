@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ssm.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ssm.dir/objects.a @CMakeFiles\ssm.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ssm.dir/objects.a -Wl,--no-whole-archive -o ssm.exe -Wl,--out-implib,libssm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ssm.dir\linklibs.rsp

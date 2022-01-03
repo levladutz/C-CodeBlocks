@@ -1,0 +1,3 @@
+F:/C++ CodeBlocks/Arbori de intervale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/C++ CodeBlocks/Arbori de intervale/cmake-build-debug/CMakeFiles/Arbori_de_intervale.dir
+F:/C++ CodeBlocks/Arbori de intervale/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,5 +1,4 @@
 # depslib dependency file v1.0
-1634821959 source:f:\c++ codeblocks\jigsaw\main.cpp
-	<iostream>
-	<cmath>
+1640327121 source:f:\c++ codeblocks\jigsaw\main.cpp
+	<bits/stdc++.h>
 

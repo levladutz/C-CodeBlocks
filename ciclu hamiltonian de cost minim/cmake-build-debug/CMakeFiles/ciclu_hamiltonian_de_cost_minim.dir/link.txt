@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ciclu_hamiltonian_de_cost_minim.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ciclu_hamiltonian_de_cost_minim.dir/objects.a @CMakeFiles\ciclu_hamiltonian_de_cost_minim.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ciclu_hamiltonian_de_cost_minim.dir/objects.a -Wl,--no-whole-archive -o ciclu_hamiltonian_de_cost_minim.exe -Wl,--out-implib,libciclu_hamiltonian_de_cost_minim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ciclu_hamiltonian_de_cost_minim.dir\linklibs.rsp
